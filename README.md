@@ -1,5 +1,6 @@
 # MBTI Spotify Playlist
 **Comparing, pair to pair, the mean audio features of playlists associated to each MBTI type. (An exploration for future research)**
+Note: The original data source for this project was Kaggle's repo: https://www.kaggle.com/code/xtrnglc/spotify-mbti-playlist-data-mining-and-engineering.
 
 ## Motivation
 This repository represents the culmination of my final Codecademy portfolio project, as well as a precursor to my upcoming bachelor's degree academic paper in Psychology. My objective with this project, and those to come, is to merge three of my passions: Mathematics, Psychology, and Music. My ultimate aim is to enhance mental health measurement capabilities, since the approach of solely relying on questionnaires and therapist assessments might be insufficient (Ormel J. et al., 2022).
